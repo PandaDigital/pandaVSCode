@@ -12,20 +12,18 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Panda Digital Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Panda Digital Dark-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Panda Digital Dark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Panda Digital Dark-color-theme.json"
+        }]
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/PandaDigital/pandaVSCode.git"
     },
     "license": "MIT",
-    "icon": "panda.png",
+    "icon": "img/pandaDigital.png",
     "galleryBanner": {
         "color": "#009688",
         "theme": "dark"
