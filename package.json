@@ -2,7 +2,7 @@
     "name": "panda-dark",
     "displayName": "Panda Dark",
     "description": "A comfortable dark theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "PandaDigitalLLC",
     "author": "Phil Reichner",
     "engines": {
@@ -12,11 +12,13 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [{
-            "label": "Panda Digital Dark",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Panda Digital Dark-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "Panda Digital Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Panda Digital Dark-color-theme.json"
+            }
+        ]
     },
     "repository": {
         "type": "git",
