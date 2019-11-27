@@ -1,5 +1,7 @@
 # README
-## This is the README for your extension "panda-dark" from Panda Digital, LLC
+## Panda Digital Dark is a comfortable dark extension.
+
+
 
 ### For more information
 * [Panda Digital](https://pandadigitalagency.com)
